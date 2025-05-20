@@ -1,0 +1,24 @@
+# train_reverse.py
+"""
+Train a Q-learning agent on the Reverse Blackjack environment
+where dealer plays first.
+"""
+from reverse_game import ReverseBlackjackEnv
+from agents.reverse_q_learning import ReverseQLearningAgent
+from train import train
+
+if __name__ == "__main__":
+    # Create reverse environment and agent
+    env = ReverseBlackjackEnv()
+    agent = ReverseQLearningAgent(alpha=0.1, gamma=0.99, epsilon=0.1)
+    
+    # Use the same training function but with reverse env/agent
+    train(
+        agent=agent,
+        env=env,
+        num_episodes=500_000,
+        save_every=10_000,
+        save_dir="saves/reverse",  # Save in different directory
+        initial_money=10000,  # Starting bankroll
+        bet_size=100  # Amount bet per hand
+    ) 
