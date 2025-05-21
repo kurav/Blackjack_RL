@@ -1,4 +1,4 @@
-# Blackjack Reinforcement Learning
+# Playing blackjack using RL - does the house always win?
 
 This project implements a Reinforcement Learning environment for both standard and reverse Blackjack, where agents can learn optimal playing strategies using Q-learning.
 
