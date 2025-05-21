@@ -1,0 +1,250 @@
+Episodes      1–10000  | Wins: 3437 (34.4%) | Losses: 5543 (55.4%) | Pushes: 611 (6.1%) | Blackjacks: 409 (4.1%)
+  Window Money  | Profit/Loss: $-149,250.00 | Avg per hand: $-14.93 | Current Balance: $-139,250.00
+  Cumulative   | Wins: 3437 (34.4%) | Losses: 5543 (55.4%) | Pushes: 611 (6.1%) | Blackjacks: 409 (4.1%)
+  Total Money  | Total Profit/Loss: $-149,250.00 | Avg per hand: $-14.93 | Current Balance: $-139,250.00
+
+Episodes  10001–20000  | Wins: 3580 (35.8%) | Losses: 5244 (52.4%) | Pushes: 738 (7.4%) | Blackjacks: 438 (4.4%)
+  Window Money  | Profit/Loss: $-100,700.00 | Avg per hand: $-10.07 | Current Balance: $-239,950.00
+  Cumulative   | Wins: 7017 (35.1%) | Losses: 10787 (53.9%) | Pushes: 1349 (6.7%) | Blackjacks: 847 (4.2%)
+  Total Money  | Total Profit/Loss: $-249,950.00 | Avg per hand: $-12.50 | Current Balance: $-239,950.00
+
+Episodes  20001–30000  | Wins: 3530 (35.3%) | Losses: 5358 (53.6%) | Pushes: 694 (6.9%) | Blackjacks: 418 (4.2%)
+  Window Money  | Profit/Loss: $-120,100.00 | Avg per hand: $-12.01 | Current Balance: $-360,050.00
+  Cumulative   | Wins: 10547 (35.2%) | Losses: 16145 (53.8%) | Pushes: 2043 (6.8%) | Blackjacks: 1265 (4.2%)
+  Total Money  | Total Profit/Loss: $-370,050.00 | Avg per hand: $-12.34 | Current Balance: $-360,050.00
+
+Episodes  30001–40000  | Wins: 3623 (36.2%) | Losses: 5249 (52.5%) | Pushes: 673 (6.7%) | Blackjacks: 455 (4.5%)
+  Window Money  | Profit/Loss: $-94,350.00 | Avg per hand: $-9.44 | Current Balance: $-454,400.00
+  Cumulative   | Wins: 14170 (35.4%) | Losses: 21394 (53.5%) | Pushes: 2716 (6.8%) | Blackjacks: 1720 (4.3%)
+  Total Money  | Total Profit/Loss: $-464,400.00 | Avg per hand: $-11.61 | Current Balance: $-454,400.00
+
+Episodes  40001–50000  | Wins: 3522 (35.2%) | Losses: 5312 (53.1%) | Pushes: 719 (7.2%) | Blackjacks: 447 (4.5%)
+  Window Money  | Profit/Loss: $-111,950.00 | Avg per hand: $-11.20 | Current Balance: $-566,350.00
+  Cumulative   | Wins: 17692 (35.4%) | Losses: 26706 (53.4%) | Pushes: 3435 (6.9%) | Blackjacks: 2167 (4.3%)
+  Total Money  | Total Profit/Loss: $-576,350.00 | Avg per hand: $-11.53 | Current Balance: $-566,350.00
+
+Episodes  50001–60000  | Wins: 3517 (35.2%) | Losses: 5324 (53.2%) | Pushes: 717 (7.2%) | Blackjacks: 442 (4.4%)
+  Window Money  | Profit/Loss: $-114,400.00 | Avg per hand: $-11.44 | Current Balance: $-680,750.00
+  Cumulative   | Wins: 21209 (35.3%) | Losses: 32030 (53.4%) | Pushes: 4152 (6.9%) | Blackjacks: 2609 (4.3%)
+  Total Money  | Total Profit/Loss: $-690,750.00 | Avg per hand: $-11.51 | Current Balance: $-680,750.00
+
+Episodes  60001–70000  | Wins: 3566 (35.7%) | Losses: 5331 (53.3%) | Pushes: 671 (6.7%) | Blackjacks: 432 (4.3%)
+  Window Money  | Profit/Loss: $-111,700.00 | Avg per hand: $-11.17 | Current Balance: $-792,450.00
+  Cumulative   | Wins: 24775 (35.4%) | Losses: 37361 (53.4%) | Pushes: 4823 (6.9%) | Blackjacks: 3041 (4.3%)
+  Total Money  | Total Profit/Loss: $-802,450.00 | Avg per hand: $-11.46 | Current Balance: $-792,450.00
+
+Episodes  70001–80000  | Wins: 3551 (35.5%) | Losses: 5268 (52.7%) | Pushes: 755 (7.5%) | Blackjacks: 426 (4.3%)
+  Window Money  | Profit/Loss: $-107,800.00 | Avg per hand: $-10.78 | Current Balance: $-900,250.00
+  Cumulative   | Wins: 28326 (35.4%) | Losses: 42629 (53.3%) | Pushes: 5578 (7.0%) | Blackjacks: 3467 (4.3%)
+  Total Money  | Total Profit/Loss: $-910,250.00 | Avg per hand: $-11.38 | Current Balance: $-900,250.00
+
+Episodes  80001–90000  | Wins: 3525 (35.2%) | Losses: 5359 (53.6%) | Pushes: 695 (7.0%) | Blackjacks: 421 (4.2%)
+  Window Money  | Profit/Loss: $-120,250.00 | Avg per hand: $-12.03 | Current Balance: $-1,020,500.00
+  Cumulative   | Wins: 31851 (35.4%) | Losses: 47988 (53.3%) | Pushes: 6273 (7.0%) | Blackjacks: 3888 (4.3%)
+  Total Money  | Total Profit/Loss: $-1,030,500.00 | Avg per hand: $-11.45 | Current Balance: $-1,020,500.00
+
+Episodes  90001–100000 | Wins: 3513 (35.1%) | Losses: 5348 (53.5%) | Pushes: 696 (7.0%) | Blackjacks: 443 (4.4%)
+  Window Money  | Profit/Loss: $-117,050.00 | Avg per hand: $-11.71 | Current Balance: $-1,137,550.00
+  Cumulative   | Wins: 35364 (35.4%) | Losses: 53336 (53.3%) | Pushes: 6969 (7.0%) | Blackjacks: 4331 (4.3%)
+  Total Money  | Total Profit/Loss: $-1,147,550.00 | Avg per hand: $-11.48 | Current Balance: $-1,137,550.00
+
+Episodes 100001–110000 | Wins: 3618 (36.2%) | Losses: 5144 (51.4%) | Pushes: 762 (7.6%) | Blackjacks: 476 (4.8%)
+  Window Money  | Profit/Loss: $-81,200.00 | Avg per hand: $-8.12 | Current Balance: $-1,218,750.00
+  Cumulative   | Wins: 38982 (35.4%) | Losses: 58480 (53.2%) | Pushes: 7731 (7.0%) | Blackjacks: 4807 (4.4%)
+  Total Money  | Total Profit/Loss: $-1,228,750.00 | Avg per hand: $-11.17 | Current Balance: $-1,218,750.00
+
+Episodes 110001–120000 | Wins: 3579 (35.8%) | Losses: 5209 (52.1%) | Pushes: 784 (7.8%) | Blackjacks: 428 (4.3%)
+  Window Money  | Profit/Loss: $-98,800.00 | Avg per hand: $-9.88 | Current Balance: $-1,317,550.00
+  Cumulative   | Wins: 42561 (35.5%) | Losses: 63689 (53.1%) | Pushes: 8515 (7.1%) | Blackjacks: 5235 (4.4%)
+  Total Money  | Total Profit/Loss: $-1,327,550.00 | Avg per hand: $-11.06 | Current Balance: $-1,317,550.00
+
+Episodes 120001–130000 | Wins: 3501 (35.0%) | Losses: 5356 (53.6%) | Pushes: 714 (7.1%) | Blackjacks: 429 (4.3%)
+  Window Money  | Profit/Loss: $-121,150.00 | Avg per hand: $-12.12 | Current Balance: $-1,438,700.00
+  Cumulative   | Wins: 46062 (35.4%) | Losses: 69045 (53.1%) | Pushes: 9229 (7.1%) | Blackjacks: 5664 (4.4%)
+  Total Money  | Total Profit/Loss: $-1,448,700.00 | Avg per hand: $-11.14 | Current Balance: $-1,438,700.00
+
+Episodes 130001–140000 | Wins: 3562 (35.6%) | Losses: 5292 (52.9%) | Pushes: 728 (7.3%) | Blackjacks: 418 (4.2%)
+  Window Money  | Profit/Loss: $-110,300.00 | Avg per hand: $-11.03 | Current Balance: $-1,549,000.00
+  Cumulative   | Wins: 49624 (35.4%) | Losses: 74337 (53.1%) | Pushes: 9957 (7.1%) | Blackjacks: 6082 (4.3%)
+  Total Money  | Total Profit/Loss: $-1,559,000.00 | Avg per hand: $-11.14 | Current Balance: $-1,549,000.00
+
+Episodes 140001–150000 | Wins: 3560 (35.6%) | Losses: 5298 (53.0%) | Pushes: 689 (6.9%) | Blackjacks: 453 (4.5%)
+  Window Money  | Profit/Loss: $-105,850.00 | Avg per hand: $-10.59 | Current Balance: $-1,654,850.00
+  Cumulative   | Wins: 53184 (35.5%) | Losses: 79635 (53.1%) | Pushes: 10646 (7.1%) | Blackjacks: 6535 (4.4%)
+  Total Money  | Total Profit/Loss: $-1,664,850.00 | Avg per hand: $-11.10 | Current Balance: $-1,654,850.00
+
+Episodes 150001–160000 | Wins: 3528 (35.3%) | Losses: 5313 (53.1%) | Pushes: 737 (7.4%) | Blackjacks: 422 (4.2%)
+  Window Money  | Profit/Loss: $-115,200.00 | Avg per hand: $-11.52 | Current Balance: $-1,770,050.00
+  Cumulative   | Wins: 56712 (35.4%) | Losses: 84948 (53.1%) | Pushes: 11383 (7.1%) | Blackjacks: 6957 (4.3%)
+  Total Money  | Total Profit/Loss: $-1,780,050.00 | Avg per hand: $-11.13 | Current Balance: $-1,770,050.00
+
+Episodes 160001–170000 | Wins: 3538 (35.4%) | Losses: 5283 (52.8%) | Pushes: 752 (7.5%) | Blackjacks: 427 (4.3%)
+  Window Money  | Profit/Loss: $-110,450.00 | Avg per hand: $-11.04 | Current Balance: $-1,880,500.00
+  Cumulative   | Wins: 60250 (35.4%) | Losses: 90231 (53.1%) | Pushes: 12135 (7.1%) | Blackjacks: 7384 (4.3%)
+  Total Money  | Total Profit/Loss: $-1,890,500.00 | Avg per hand: $-11.12 | Current Balance: $-1,880,500.00
+
+Episodes 170001–180000 | Wins: 3611 (36.1%) | Losses: 5265 (52.6%) | Pushes: 674 (6.7%) | Blackjacks: 450 (4.5%)
+  Window Money  | Profit/Loss: $-97,900.00 | Avg per hand: $-9.79 | Current Balance: $-1,978,400.00
+  Cumulative   | Wins: 63861 (35.5%) | Losses: 95496 (53.1%) | Pushes: 12809 (7.1%) | Blackjacks: 7834 (4.4%)
+  Total Money  | Total Profit/Loss: $-1,988,400.00 | Avg per hand: $-11.05 | Current Balance: $-1,978,400.00
+
+Episodes 180001–190000 | Wins: 3552 (35.5%) | Losses: 5338 (53.4%) | Pushes: 702 (7.0%) | Blackjacks: 408 (4.1%)
+  Window Money  | Profit/Loss: $-117,400.00 | Avg per hand: $-11.74 | Current Balance: $-2,095,800.00
+  Cumulative   | Wins: 67413 (35.5%) | Losses: 100834 (53.1%) | Pushes: 13511 (7.1%) | Blackjacks: 8242 (4.3%)
+  Total Money  | Total Profit/Loss: $-2,105,800.00 | Avg per hand: $-11.08 | Current Balance: $-2,095,800.00
+
+Episodes 190001–200000 | Wins: 3441 (34.4%) | Losses: 5412 (54.1%) | Pushes: 713 (7.1%) | Blackjacks: 434 (4.3%)
+  Window Money  | Profit/Loss: $-132,000.00 | Avg per hand: $-13.20 | Current Balance: $-2,227,800.00
+  Cumulative   | Wins: 70854 (35.4%) | Losses: 106246 (53.1%) | Pushes: 14224 (7.1%) | Blackjacks: 8676 (4.3%)
+  Total Money  | Total Profit/Loss: $-2,237,800.00 | Avg per hand: $-11.19 | Current Balance: $-2,227,800.00
+
+Episodes 200001–210000 | Wins: 3549 (35.5%) | Losses: 5327 (53.3%) | Pushes: 698 (7.0%) | Blackjacks: 426 (4.3%)
+  Window Money  | Profit/Loss: $-113,900.00 | Avg per hand: $-11.39 | Current Balance: $-2,341,700.00
+  Cumulative   | Wins: 74403 (35.4%) | Losses: 111573 (53.1%) | Pushes: 14922 (7.1%) | Blackjacks: 9102 (4.3%)
+  Total Money  | Total Profit/Loss: $-2,351,700.00 | Avg per hand: $-11.20 | Current Balance: $-2,341,700.00
+
+Episodes 210001–220000 | Wins: 3545 (35.4%) | Losses: 5299 (53.0%) | Pushes: 702 (7.0%) | Blackjacks: 454 (4.5%)
+  Window Money  | Profit/Loss: $-107,300.00 | Avg per hand: $-10.73 | Current Balance: $-2,449,000.00
+  Cumulative   | Wins: 77948 (35.4%) | Losses: 116872 (53.1%) | Pushes: 15624 (7.1%) | Blackjacks: 9556 (4.3%)
+  Total Money  | Total Profit/Loss: $-2,459,000.00 | Avg per hand: $-11.18 | Current Balance: $-2,449,000.00
+
+Episodes 220001–230000 | Wins: 3562 (35.6%) | Losses: 5251 (52.5%) | Pushes: 768 (7.7%) | Blackjacks: 419 (4.2%)
+  Window Money  | Profit/Loss: $-106,050.00 | Avg per hand: $-10.61 | Current Balance: $-2,555,050.00
+  Cumulative   | Wins: 81510 (35.4%) | Losses: 122123 (53.1%) | Pushes: 16392 (7.1%) | Blackjacks: 9975 (4.3%)
+  Total Money  | Total Profit/Loss: $-2,565,050.00 | Avg per hand: $-11.15 | Current Balance: $-2,555,050.00
+
+Episodes 230001–240000 | Wins: 3568 (35.7%) | Losses: 5284 (52.8%) | Pushes: 693 (6.9%) | Blackjacks: 455 (4.5%)
+  Window Money  | Profit/Loss: $-103,350.00 | Avg per hand: $-10.34 | Current Balance: $-2,658,400.00
+  Cumulative   | Wins: 85078 (35.4%) | Losses: 127407 (53.1%) | Pushes: 17085 (7.1%) | Blackjacks: 10430 (4.3%)
+  Total Money  | Total Profit/Loss: $-2,668,400.00 | Avg per hand: $-11.12 | Current Balance: $-2,658,400.00
+
+Episodes 240001–250000 | Wins: 3477 (34.8%) | Losses: 5333 (53.3%) | Pushes: 751 (7.5%) | Blackjacks: 439 (4.4%)
+  Window Money  | Profit/Loss: $-119,750.00 | Avg per hand: $-11.97 | Current Balance: $-2,778,150.00
+  Cumulative   | Wins: 88555 (35.4%) | Losses: 132740 (53.1%) | Pushes: 17836 (7.1%) | Blackjacks: 10869 (4.3%)
+  Total Money  | Total Profit/Loss: $-2,788,150.00 | Avg per hand: $-11.15 | Current Balance: $-2,778,150.00
+
+Episodes 250001–260000 | Wins: 3545 (35.4%) | Losses: 5334 (53.3%) | Pushes: 678 (6.8%) | Blackjacks: 443 (4.4%)
+  Window Money  | Profit/Loss: $-112,450.00 | Avg per hand: $-11.24 | Current Balance: $-2,890,600.00
+  Cumulative   | Wins: 92100 (35.4%) | Losses: 138074 (53.1%) | Pushes: 18514 (7.1%) | Blackjacks: 11312 (4.4%)
+  Total Money  | Total Profit/Loss: $-2,900,600.00 | Avg per hand: $-11.16 | Current Balance: $-2,890,600.00
+
+Episodes 260001–270000 | Wins: 3540 (35.4%) | Losses: 5343 (53.4%) | Pushes: 719 (7.2%) | Blackjacks: 398 (4.0%)
+  Window Money  | Profit/Loss: $-120,600.00 | Avg per hand: $-12.06 | Current Balance: $-3,011,200.00
+  Cumulative   | Wins: 95640 (35.4%) | Losses: 143417 (53.1%) | Pushes: 19233 (7.1%) | Blackjacks: 11710 (4.3%)
+  Total Money  | Total Profit/Loss: $-3,021,200.00 | Avg per hand: $-11.19 | Current Balance: $-3,011,200.00
+
+Episodes 270001–280000 | Wins: 3547 (35.5%) | Losses: 5313 (53.1%) | Pushes: 720 (7.2%) | Blackjacks: 420 (4.2%)
+  Window Money  | Profit/Loss: $-113,600.00 | Avg per hand: $-11.36 | Current Balance: $-3,124,800.00
+  Cumulative   | Wins: 99187 (35.4%) | Losses: 148730 (53.1%) | Pushes: 19953 (7.1%) | Blackjacks: 12130 (4.3%)
+  Total Money  | Total Profit/Loss: $-3,134,800.00 | Avg per hand: $-11.20 | Current Balance: $-3,124,800.00
+
+Episodes 280001–290000 | Wins: 3599 (36.0%) | Losses: 5236 (52.4%) | Pushes: 730 (7.3%) | Blackjacks: 435 (4.3%)
+  Window Money  | Profit/Loss: $-98,450.00 | Avg per hand: $-9.85 | Current Balance: $-3,223,250.00
+  Cumulative   | Wins: 102786 (35.4%) | Losses: 153966 (53.1%) | Pushes: 20683 (7.1%) | Blackjacks: 12565 (4.3%)
+  Total Money  | Total Profit/Loss: $-3,233,250.00 | Avg per hand: $-11.15 | Current Balance: $-3,223,250.00
+
+Episodes 290001–300000 | Wins: 3583 (35.8%) | Losses: 5261 (52.6%) | Pushes: 724 (7.2%) | Blackjacks: 432 (4.3%)
+  Window Money  | Profit/Loss: $-103,000.00 | Avg per hand: $-10.30 | Current Balance: $-3,326,250.00
+  Cumulative   | Wins: 106369 (35.5%) | Losses: 159227 (53.1%) | Pushes: 21407 (7.1%) | Blackjacks: 12997 (4.3%)
+  Total Money  | Total Profit/Loss: $-3,336,250.00 | Avg per hand: $-11.12 | Current Balance: $-3,326,250.00
+
+Episodes 300001–310000 | Wins: 3509 (35.1%) | Losses: 5354 (53.5%) | Pushes: 732 (7.3%) | Blackjacks: 405 (4.0%)
+  Window Money  | Profit/Loss: $-123,750.00 | Avg per hand: $-12.38 | Current Balance: $-3,450,000.00
+  Cumulative   | Wins: 109878 (35.4%) | Losses: 164581 (53.1%) | Pushes: 22139 (7.1%) | Blackjacks: 13402 (4.3%)
+  Total Money  | Total Profit/Loss: $-3,460,000.00 | Avg per hand: $-11.16 | Current Balance: $-3,450,000.00
+
+Episodes 310001–320000 | Wins: 3571 (35.7%) | Losses: 5299 (53.0%) | Pushes: 691 (6.9%) | Blackjacks: 439 (4.4%)
+  Window Money  | Profit/Loss: $-106,950.00 | Avg per hand: $-10.70 | Current Balance: $-3,556,950.00
+  Cumulative   | Wins: 113449 (35.5%) | Losses: 169880 (53.1%) | Pushes: 22830 (7.1%) | Blackjacks: 13841 (4.3%)
+  Total Money  | Total Profit/Loss: $-3,566,950.00 | Avg per hand: $-11.15 | Current Balance: $-3,556,950.00
+
+Episodes 320001–330000 | Wins: 3612 (36.1%) | Losses: 5281 (52.8%) | Pushes: 655 (6.6%) | Blackjacks: 452 (4.5%)
+  Window Money  | Profit/Loss: $-99,100.00 | Avg per hand: $-9.91 | Current Balance: $-3,656,050.00
+  Cumulative   | Wins: 117061 (35.5%) | Losses: 175161 (53.1%) | Pushes: 23485 (7.1%) | Blackjacks: 14293 (4.3%)
+  Total Money  | Total Profit/Loss: $-3,666,050.00 | Avg per hand: $-11.11 | Current Balance: $-3,656,050.00
+
+Episodes 330001–340000 | Wins: 3522 (35.2%) | Losses: 5290 (52.9%) | Pushes: 761 (7.6%) | Blackjacks: 427 (4.3%)
+  Window Money  | Profit/Loss: $-112,750.00 | Avg per hand: $-11.28 | Current Balance: $-3,768,800.00
+  Cumulative   | Wins: 120583 (35.5%) | Losses: 180451 (53.1%) | Pushes: 24246 (7.1%) | Blackjacks: 14720 (4.3%)
+  Total Money  | Total Profit/Loss: $-3,778,800.00 | Avg per hand: $-11.11 | Current Balance: $-3,768,800.00
+
+Episodes 340001–350000 | Wins: 3578 (35.8%) | Losses: 5266 (52.7%) | Pushes: 710 (7.1%) | Blackjacks: 446 (4.5%)
+  Window Money  | Profit/Loss: $-101,900.00 | Avg per hand: $-10.19 | Current Balance: $-3,870,700.00
+  Cumulative   | Wins: 124161 (35.5%) | Losses: 185717 (53.1%) | Pushes: 24956 (7.1%) | Blackjacks: 15166 (4.3%)
+  Total Money  | Total Profit/Loss: $-3,880,700.00 | Avg per hand: $-11.09 | Current Balance: $-3,870,700.00
+
+Episodes 350001–360000 | Wins: 3482 (34.8%) | Losses: 5372 (53.7%) | Pushes: 748 (7.5%) | Blackjacks: 398 (4.0%)
+  Window Money  | Profit/Loss: $-129,300.00 | Avg per hand: $-12.93 | Current Balance: $-4,000,000.00
+  Cumulative   | Wins: 127643 (35.5%) | Losses: 191089 (53.1%) | Pushes: 25704 (7.1%) | Blackjacks: 15564 (4.3%)
+  Total Money  | Total Profit/Loss: $-4,010,000.00 | Avg per hand: $-11.14 | Current Balance: $-4,000,000.00
+
+Episodes 360001–370000 | Wins: 3618 (36.2%) | Losses: 5179 (51.8%) | Pushes: 751 (7.5%) | Blackjacks: 452 (4.5%)
+  Window Money  | Profit/Loss: $-88,300.00 | Avg per hand: $-8.83 | Current Balance: $-4,088,300.00
+  Cumulative   | Wins: 131261 (35.5%) | Losses: 196268 (53.0%) | Pushes: 26455 (7.1%) | Blackjacks: 16016 (4.3%)
+  Total Money  | Total Profit/Loss: $-4,098,300.00 | Avg per hand: $-11.08 | Current Balance: $-4,088,300.00
+
+Episodes 370001–380000 | Wins: 3470 (34.7%) | Losses: 5324 (53.2%) | Pushes: 771 (7.7%) | Blackjacks: 435 (4.3%)
+  Window Money  | Profit/Loss: $-120,150.00 | Avg per hand: $-12.02 | Current Balance: $-4,208,450.00
+  Cumulative   | Wins: 134731 (35.5%) | Losses: 201592 (53.1%) | Pushes: 27226 (7.2%) | Blackjacks: 16451 (4.3%)
+  Total Money  | Total Profit/Loss: $-4,218,450.00 | Avg per hand: $-11.10 | Current Balance: $-4,208,450.00
+
+Episodes 380001–390000 | Wins: 3545 (35.4%) | Losses: 5265 (52.6%) | Pushes: 777 (7.8%) | Blackjacks: 413 (4.1%)
+  Window Money  | Profit/Loss: $-110,050.00 | Avg per hand: $-11.01 | Current Balance: $-4,318,500.00
+  Cumulative   | Wins: 138276 (35.5%) | Losses: 206857 (53.0%) | Pushes: 28003 (7.2%) | Blackjacks: 16864 (4.3%)
+  Total Money  | Total Profit/Loss: $-4,328,500.00 | Avg per hand: $-11.10 | Current Balance: $-4,318,500.00
+
+Episodes 390001–400000 | Wins: 3560 (35.6%) | Losses: 5262 (52.6%) | Pushes: 742 (7.4%) | Blackjacks: 436 (4.4%)
+  Window Money  | Profit/Loss: $-104,800.00 | Avg per hand: $-10.48 | Current Balance: $-4,423,300.00
+  Cumulative   | Wins: 141836 (35.5%) | Losses: 212119 (53.0%) | Pushes: 28745 (7.2%) | Blackjacks: 17300 (4.3%)
+  Total Money  | Total Profit/Loss: $-4,433,300.00 | Avg per hand: $-11.08 | Current Balance: $-4,423,300.00
+
+Episodes 400001–410000 | Wins: 3532 (35.3%) | Losses: 5330 (53.3%) | Pushes: 709 (7.1%) | Blackjacks: 429 (4.3%)
+  Window Money  | Profit/Loss: $-115,450.00 | Avg per hand: $-11.54 | Current Balance: $-4,538,750.00
+  Cumulative   | Wins: 145368 (35.5%) | Losses: 217449 (53.0%) | Pushes: 29454 (7.2%) | Blackjacks: 17729 (4.3%)
+  Total Money  | Total Profit/Loss: $-4,548,750.00 | Avg per hand: $-11.09 | Current Balance: $-4,538,750.00
+
+Episodes 410001–420000 | Wins: 3477 (34.8%) | Losses: 5380 (53.8%) | Pushes: 738 (7.4%) | Blackjacks: 405 (4.0%)
+  Window Money  | Profit/Loss: $-129,550.00 | Avg per hand: $-12.96 | Current Balance: $-4,668,300.00
+  Cumulative   | Wins: 148845 (35.4%) | Losses: 222829 (53.1%) | Pushes: 30192 (7.2%) | Blackjacks: 18134 (4.3%)
+  Total Money  | Total Profit/Loss: $-4,678,300.00 | Avg per hand: $-11.14 | Current Balance: $-4,668,300.00
+
+Episodes 420001–430000 | Wins: 3641 (36.4%) | Losses: 5204 (52.0%) | Pushes: 707 (7.1%) | Blackjacks: 448 (4.5%)
+  Window Money  | Profit/Loss: $-89,100.00 | Avg per hand: $-8.91 | Current Balance: $-4,757,400.00
+  Cumulative   | Wins: 152486 (35.5%) | Losses: 228033 (53.0%) | Pushes: 30899 (7.2%) | Blackjacks: 18582 (4.3%)
+  Total Money  | Total Profit/Loss: $-4,767,400.00 | Avg per hand: $-11.09 | Current Balance: $-4,757,400.00
+
+Episodes 430001–440000 | Wins: 3523 (35.2%) | Losses: 5286 (52.9%) | Pushes: 752 (7.5%) | Blackjacks: 439 (4.4%)
+  Window Money  | Profit/Loss: $-110,450.00 | Avg per hand: $-11.04 | Current Balance: $-4,867,850.00
+  Cumulative   | Wins: 156009 (35.5%) | Losses: 233319 (53.0%) | Pushes: 31651 (7.2%) | Blackjacks: 19021 (4.3%)
+  Total Money  | Total Profit/Loss: $-4,877,850.00 | Avg per hand: $-11.09 | Current Balance: $-4,867,850.00
+
+Episodes 440001–450000 | Wins: 3492 (34.9%) | Losses: 5351 (53.5%) | Pushes: 725 (7.2%) | Blackjacks: 432 (4.3%)
+  Window Money  | Profit/Loss: $-121,100.00 | Avg per hand: $-12.11 | Current Balance: $-4,988,950.00
+  Cumulative   | Wins: 159501 (35.4%) | Losses: 238670 (53.0%) | Pushes: 32376 (7.2%) | Blackjacks: 19453 (4.3%)
+  Total Money  | Total Profit/Loss: $-4,998,950.00 | Avg per hand: $-11.11 | Current Balance: $-4,988,950.00
+
+Episodes 450001–460000 | Wins: 3598 (36.0%) | Losses: 5229 (52.3%) | Pushes: 732 (7.3%) | Blackjacks: 441 (4.4%)
+  Window Money  | Profit/Loss: $-96,950.00 | Avg per hand: $-9.70 | Current Balance: $-5,085,900.00
+  Cumulative   | Wins: 163099 (35.5%) | Losses: 243899 (53.0%) | Pushes: 33108 (7.2%) | Blackjacks: 19894 (4.3%)
+  Total Money  | Total Profit/Loss: $-5,095,900.00 | Avg per hand: $-11.08 | Current Balance: $-5,085,900.00
+
+Episodes 460001–470000 | Wins: 3509 (35.1%) | Losses: 5302 (53.0%) | Pushes: 736 (7.4%) | Blackjacks: 453 (4.5%)
+  Window Money  | Profit/Loss: $-111,350.00 | Avg per hand: $-11.13 | Current Balance: $-5,197,250.00
+  Cumulative   | Wins: 166608 (35.4%) | Losses: 249201 (53.0%) | Pushes: 33844 (7.2%) | Blackjacks: 20347 (4.3%)
+  Total Money  | Total Profit/Loss: $-5,207,250.00 | Avg per hand: $-11.08 | Current Balance: $-5,197,250.00
+
+Episodes 470001–480000 | Wins: 3506 (35.1%) | Losses: 5319 (53.2%) | Pushes: 734 (7.3%) | Blackjacks: 441 (4.4%)
+  Window Money  | Profit/Loss: $-115,150.00 | Avg per hand: $-11.52 | Current Balance: $-5,312,400.00
+  Cumulative   | Wins: 170114 (35.4%) | Losses: 254520 (53.0%) | Pushes: 34578 (7.2%) | Blackjacks: 20788 (4.3%)
+  Total Money  | Total Profit/Loss: $-5,322,400.00 | Avg per hand: $-11.09 | Current Balance: $-5,312,400.00
+
+Episodes 480001–490000 | Wins: 3502 (35.0%) | Losses: 5307 (53.1%) | Pushes: 722 (7.2%) | Blackjacks: 469 (4.7%)
+  Window Money  | Profit/Loss: $-110,150.00 | Avg per hand: $-11.02 | Current Balance: $-5,422,550.00
+  Cumulative   | Wins: 173616 (35.4%) | Losses: 259827 (53.0%) | Pushes: 35300 (7.2%) | Blackjacks: 21257 (4.3%)
+  Total Money  | Total Profit/Loss: $-5,432,550.00 | Avg per hand: $-11.09 | Current Balance: $-5,422,550.00
+
+Episodes 490001–500000 | Wins: 3539 (35.4%) | Losses: 5309 (53.1%) | Pushes: 687 (6.9%) | Blackjacks: 465 (4.7%)
+  Window Money  | Profit/Loss: $-107,250.00 | Avg per hand: $-10.72 | Current Balance: $-5,529,800.00
+  Cumulative   | Wins: 177155 (35.4%) | Losses: 265136 (53.0%) | Pushes: 35987 (7.2%) | Blackjacks: 21722 (4.3%)
+  Total Money  | Total Profit/Loss: $-5,539,800.00 | Avg per hand: $-11.08 | Current Balance: $-5,529,800.00
+
