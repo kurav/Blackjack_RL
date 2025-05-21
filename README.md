@@ -30,27 +30,6 @@ blackjack/
 └── visualize.py     # Training visualization tools
 ```
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.6+
-- Required packages (install via pip):
-  ```bash
-  pip install numpy matplotlib
-  ```
-
-### Installation
-1. Clone the repository:
-  ```bash
-  git clone https://github.com/yourusername/blackjack-rl.git
-  cd blackjack-rl
-  ```
-
-2. Install dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
-
 ## 🎯 Usage
 
 ### Training an Agent
