@@ -1,0 +1,454 @@
+Starting training for 500000 episodes...
+
+Episodes      1–10000 
+Win Rate: 41.3%
+Loss Rate: 45.8%
+Push Rate: 9.2%
+Blackjack Rate: 3.7%
+Profit per Hand: $1.07
+Window Profit: $10,700.00
+Current Balance: $20,700.00
+
+Episodes  10001–20000 
+Win Rate: 42.6%
+Loss Rate: 44.2%
+Push Rate: 9.2%
+Blackjack Rate: 4.0%
+Profit per Hand: $4.37
+Window Profit: $43,650.00
+Current Balance: $64,350.00
+
+Episodes  20001–30000 
+Win Rate: 42.6%
+Loss Rate: 43.6%
+Push Rate: 9.6%
+Blackjack Rate: 4.3%
+Profit per Hand: $5.45
+Window Profit: $54,450.00
+Current Balance: $118,800.00
+
+Episodes  30001–40000 
+Win Rate: 42.0%
+Loss Rate: 44.0%
+Push Rate: 9.6%
+Blackjack Rate: 4.5%
+Profit per Hand: $4.71
+Window Profit: $47,150.00
+Current Balance: $165,950.00
+
+Episodes  40001–50000 
+Win Rate: 42.1%
+Loss Rate: 44.2%
+Push Rate: 9.4%
+Blackjack Rate: 4.2%
+Profit per Hand: $4.26
+Window Profit: $42,650.00
+Current Balance: $208,600.00
+
+Episodes  50001–60000 
+Win Rate: 42.7%
+Loss Rate: 43.5%
+Push Rate: 9.6%
+Blackjack Rate: 4.2%
+Profit per Hand: $5.48
+Window Profit: $54,800.00
+Current Balance: $263,400.00
+
+Episodes  60001–70000 
+Win Rate: 42.7%
+Loss Rate: 43.8%
+Push Rate: 9.3%
+Blackjack Rate: 4.3%
+Profit per Hand: $5.27
+Window Profit: $52,700.00
+Current Balance: $316,100.00
+
+Episodes  70001–80000 
+Win Rate: 42.0%
+Loss Rate: 44.4%
+Push Rate: 9.3%
+Blackjack Rate: 4.3%
+Profit per Hand: $3.98
+Window Profit: $39,800.00
+Current Balance: $355,900.00
+
+Episodes  80001–90000 
+Win Rate: 41.7%
+Loss Rate: 43.9%
+Push Rate: 9.6%
+Blackjack Rate: 4.8%
+Profit per Hand: $4.98
+Window Profit: $49,800.00
+Current Balance: $405,700.00
+
+Episodes  90001–100000
+Win Rate: 42.0%
+Loss Rate: 44.6%
+Push Rate: 9.5%
+Blackjack Rate: 3.9%
+Profit per Hand: $3.21
+Window Profit: $32,100.00
+Current Balance: $437,800.00
+
+Episodes 100001–110000
+Win Rate: 42.4%
+Loss Rate: 43.5%
+Push Rate: 9.7%
+Blackjack Rate: 4.4%
+Profit per Hand: $5.55
+Window Profit: $55,550.00
+Current Balance: $493,350.00
+
+Episodes 110001–120000
+Win Rate: 42.8%
+Loss Rate: 43.2%
+Push Rate: 9.7%
+Blackjack Rate: 4.2%
+Profit per Hand: $5.91
+Window Profit: $59,050.00
+Current Balance: $552,400.00
+
+Episodes 120001–130000
+Win Rate: 42.9%
+Loss Rate: 43.3%
+Push Rate: 9.8%
+Blackjack Rate: 3.9%
+Profit per Hand: $5.51
+Window Profit: $55,150.00
+Current Balance: $607,550.00
+
+Episodes 130001–140000
+Win Rate: 42.8%
+Loss Rate: 43.7%
+Push Rate: 9.2%
+Blackjack Rate: 4.3%
+Profit per Hand: $5.43
+Window Profit: $54,300.00
+Current Balance: $661,850.00
+
+Episodes 140001–150000
+Win Rate: 42.7%
+Loss Rate: 43.5%
+Push Rate: 9.7%
+Blackjack Rate: 4.2%
+Profit per Hand: $5.43
+Window Profit: $54,350.00
+Current Balance: $716,200.00
+
+Episodes 150001–160000
+Win Rate: 42.3%
+Loss Rate: 43.6%
+Push Rate: 9.2%
+Blackjack Rate: 4.9%
+Profit per Hand: $6.05
+Window Profit: $60,550.00
+Current Balance: $776,750.00
+
+Episodes 160001–170000
+Win Rate: 42.3%
+Loss Rate: 43.8%
+Push Rate: 9.7%
+Blackjack Rate: 4.2%
+Profit per Hand: $4.88
+Window Profit: $48,800.00
+Current Balance: $825,550.00
+
+Episodes 170001–180000
+Win Rate: 42.7%
+Loss Rate: 43.9%
+Push Rate: 9.3%
+Blackjack Rate: 4.1%
+Profit per Hand: $4.93
+Window Profit: $49,350.00
+Current Balance: $874,900.00
+
+Episodes 180001–190000
+Win Rate: 41.8%
+Loss Rate: 44.1%
+Push Rate: 9.6%
+Blackjack Rate: 4.4%
+Profit per Hand: $4.30
+Window Profit: $43,050.00
+Current Balance: $917,950.00
+
+Episodes 190001–200000
+Win Rate: 42.3%
+Loss Rate: 43.3%
+Push Rate: 10.0%
+Blackjack Rate: 4.4%
+Profit per Hand: $5.57
+Window Profit: $55,700.00
+Current Balance: $973,650.00
+
+Episodes 200001–210000
+Win Rate: 42.4%
+Loss Rate: 43.3%
+Push Rate: 10.0%
+Blackjack Rate: 4.2%
+Profit per Hand: $5.57
+Window Profit: $55,650.00
+Current Balance: $1,029,300.00
+
+Episodes 210001–220000
+Win Rate: 41.5%
+Loss Rate: 44.0%
+Push Rate: 10.0%
+Blackjack Rate: 4.4%
+Profit per Hand: $4.11
+Window Profit: $41,100.00
+Current Balance: $1,070,400.00
+
+Episodes 220001–230000
+Win Rate: 42.9%
+Loss Rate: 43.2%
+Push Rate: 9.5%
+Blackjack Rate: 4.5%
+Profit per Hand: $6.37
+Window Profit: $63,650.00
+Current Balance: $1,134,050.00
+
+Episodes 230001–240000
+Win Rate: 43.0%
+Loss Rate: 43.4%
+Push Rate: 9.5%
+Blackjack Rate: 4.1%
+Profit per Hand: $5.72
+Window Profit: $57,200.00
+Current Balance: $1,191,250.00
+
+Episodes 240001–250000
+Win Rate: 43.1%
+Loss Rate: 42.9%
+Push Rate: 9.7%
+Blackjack Rate: 4.3%
+Profit per Hand: $6.67
+Window Profit: $66,700.00
+Current Balance: $1,257,950.00
+
+Episodes 250001–260000
+Win Rate: 41.7%
+Loss Rate: 44.2%
+Push Rate: 10.0%
+Blackjack Rate: 4.1%
+Profit per Hand: $3.56
+Window Profit: $35,550.00
+Current Balance: $1,293,500.00
+
+Episodes 260001–270000
+Win Rate: 42.0%
+Loss Rate: 43.3%
+Push Rate: 10.1%
+Blackjack Rate: 4.6%
+Profit per Hand: $5.66
+Window Profit: $56,600.00
+Current Balance: $1,350,100.00
+
+Episodes 270001–280000
+Win Rate: 42.7%
+Loss Rate: 43.4%
+Push Rate: 9.6%
+Blackjack Rate: 4.3%
+Profit per Hand: $5.83
+Window Profit: $58,300.00
+Current Balance: $1,408,400.00
+
+Episodes 280001–290000
+Win Rate: 41.8%
+Loss Rate: 44.3%
+Push Rate: 10.0%
+Blackjack Rate: 4.0%
+Profit per Hand: $3.48
+Window Profit: $34,850.00
+Current Balance: $1,443,250.00
+
+Episodes 290001–300000
+Win Rate: 42.1%
+Loss Rate: 44.3%
+Push Rate: 9.3%
+Blackjack Rate: 4.3%
+Profit per Hand: $4.29
+Window Profit: $42,950.00
+Current Balance: $1,486,200.00
+
+Episodes 300001–310000
+Win Rate: 42.3%
+Loss Rate: 43.8%
+Push Rate: 9.6%
+Blackjack Rate: 4.3%
+Profit per Hand: $4.92
+Window Profit: $49,150.00
+Current Balance: $1,535,350.00
+
+Episodes 310001–320000
+Win Rate: 42.9%
+Loss Rate: 43.5%
+Push Rate: 9.3%
+Blackjack Rate: 4.4%
+Profit per Hand: $5.98
+Window Profit: $59,800.00
+Current Balance: $1,595,150.00
+
+Episodes 320001–330000
+Win Rate: 42.7%
+Loss Rate: 43.8%
+Push Rate: 9.3%
+Blackjack Rate: 4.2%
+Profit per Hand: $5.37
+Window Profit: $53,650.00
+Current Balance: $1,648,800.00
+
+Episodes 330001–340000
+Win Rate: 42.2%
+Loss Rate: 43.9%
+Push Rate: 9.6%
+Blackjack Rate: 4.4%
+Profit per Hand: $4.94
+Window Profit: $49,400.00
+Current Balance: $1,698,200.00
+
+Episodes 340001–350000
+Win Rate: 42.3%
+Loss Rate: 43.6%
+Push Rate: 9.6%
+Blackjack Rate: 4.4%
+Profit per Hand: $5.35
+Window Profit: $53,500.00
+Current Balance: $1,751,700.00
+
+Episodes 350001–360000
+Win Rate: 43.0%
+Loss Rate: 42.8%
+Push Rate: 9.7%
+Blackjack Rate: 4.4%
+Profit per Hand: $6.80
+Window Profit: $68,000.00
+Current Balance: $1,819,700.00
+
+Episodes 360001–370000
+Win Rate: 42.3%
+Loss Rate: 43.4%
+Push Rate: 9.6%
+Blackjack Rate: 4.7%
+Profit per Hand: $5.88
+Window Profit: $58,750.00
+Current Balance: $1,878,450.00
+
+Episodes 370001–380000
+Win Rate: 43.5%
+Loss Rate: 42.6%
+Push Rate: 9.5%
+Blackjack Rate: 4.3%
+Profit per Hand: $7.32
+Window Profit: $73,200.00
+Current Balance: $1,951,650.00
+
+Episodes 380001–390000
+Win Rate: 43.0%
+Loss Rate: 43.8%
+Push Rate: 9.0%
+Blackjack Rate: 4.2%
+Profit per Hand: $5.45
+Window Profit: $54,450.00
+Current Balance: $2,006,100.00
+
+Episodes 390001–400000
+Win Rate: 42.2%
+Loss Rate: 44.2%
+Push Rate: 9.2%
+Blackjack Rate: 4.4%
+Profit per Hand: $4.58
+Window Profit: $45,750.00
+Current Balance: $2,051,850.00
+
+Episodes 400001–410000
+Win Rate: 42.2%
+Loss Rate: 43.8%
+Push Rate: 9.8%
+Blackjack Rate: 4.2%
+Profit per Hand: $4.78
+Window Profit: $47,800.00
+Current Balance: $2,099,650.00
+
+Episodes 410001–420000
+Win Rate: 43.4%
+Loss Rate: 43.6%
+Push Rate: 8.8%
+Blackjack Rate: 4.2%
+Profit per Hand: $6.12
+Window Profit: $61,150.00
+Current Balance: $2,160,800.00
+
+Episodes 420001–430000
+Win Rate: 42.3%
+Loss Rate: 44.0%
+Push Rate: 9.4%
+Blackjack Rate: 4.3%
+Profit per Hand: $4.84
+Window Profit: $48,400.00
+Current Balance: $2,209,200.00
+
+Episodes 430001–440000
+Win Rate: 42.7%
+Loss Rate: 43.2%
+Push Rate: 9.7%
+Blackjack Rate: 4.3%
+Profit per Hand: $6.00
+Window Profit: $59,950.00
+Current Balance: $2,269,150.00
+
+Episodes 440001–450000
+Win Rate: 42.4%
+Loss Rate: 43.3%
+Push Rate: 9.8%
+Blackjack Rate: 4.5%
+Profit per Hand: $5.84
+Window Profit: $58,400.00
+Current Balance: $2,327,550.00
+
+Episodes 450001–460000
+Win Rate: 42.7%
+Loss Rate: 42.9%
+Push Rate: 9.8%
+Blackjack Rate: 4.6%
+Profit per Hand: $6.75
+Window Profit: $67,500.00
+Current Balance: $2,395,050.00
+
+Episodes 460001–470000
+Win Rate: 41.8%
+Loss Rate: 43.8%
+Push Rate: 10.0%
+Blackjack Rate: 4.3%
+Profit per Hand: $4.53
+Window Profit: $45,250.00
+Current Balance: $2,440,300.00
+
+Episodes 470001–480000
+Win Rate: 42.5%
+Loss Rate: 43.3%
+Push Rate: 9.8%
+Blackjack Rate: 4.3%
+Profit per Hand: $5.68
+Window Profit: $56,850.00
+Current Balance: $2,497,150.00
+
+Episodes 480001–490000
+Win Rate: 42.5%
+Loss Rate: 43.9%
+Push Rate: 9.4%
+Blackjack Rate: 4.3%
+Profit per Hand: $5.05
+Window Profit: $50,500.00
+Current Balance: $2,547,650.00
+
+Episodes 490001–500000
+Win Rate: 42.8%
+Loss Rate: 43.9%
+Push Rate: 9.3%
+Blackjack Rate: 4.0%
+Profit per Hand: $4.94
+Window Profit: $49,400.00
+Current Balance: $2,597,050.00
+
+Training complete in 6.8 seconds
+Final Q-table saved to saves/reverse/q_learning.pkl
